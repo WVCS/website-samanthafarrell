@@ -1,1 +1,46 @@
+@charset "utf-8";
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  border: 1px solid #e7e7e7;
+  background-color: #f3f3f3;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  border: 1px solid #e7e7e7;
+  background-color: #f3f3f3;
+}
 
+ul li a {
+  display: block;
+  color: #666666;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a {
+  display: block;
+  color: #666666;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+body {
+	background-color:coral
+}
+
+img {
+	width: 200px;
+}<html>
+
+
+
+
+
+
+
+</html>
